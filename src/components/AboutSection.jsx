@@ -37,7 +37,7 @@ I am deeply committed to create outstanding software that enhances the lives of 
                                 <p className="text-lg text-center font-montserrat font-semibold text-gray-900">Version Control</p>
                             </div>
                             <div className="bg-gray-400 p-4 rounded-lg shadow-md">
-                                <p className="text-lg text-center font-montserrat font-semibold text-gray-900">HTML/CSS/Javascript</p>
+                                <p className="text-lg text-center font-montserrat font-semibold text-gray-900">Web Development</p>
                             </div>
                             <div className="bg-gray-400 p-4 rounded-lg shadow-md">
                                 <p className="text-lg text-center font-montserrat font-semibold text-gray-900">Growth Mindset</p>
