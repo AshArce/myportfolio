@@ -5,14 +5,15 @@ const AboutSection = () => {
         <section id="about" className="bg-oceanBlue">
             <div className="container mx-auto py-2 md:py-4 px-6 sm:px-8 lg:px-8">
                 <div className="flex flex-col md:flex-row items-start">
-                    <img src="/src/assets/my-photo.png" alt="Your Image" className="w-56 h-auto md:w-56 md:h-auto object-cover mb-4 md:mb-0" />
+                    <img src="/images/my-photo.png" alt="Your Image" className="w-56 h-auto md:w-56 md:h-auto object-cover mb-4 md:mb-0" />
                     
                     <div className="md:ml-8">
                         <h3 className="text-2xl text-white font-semibold font-montserrat text-customPink mb-4">
                             ABOUT ME
                         </h3>
                         <p className="text-lg font-montserrat text-gray-400 mb-8">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        
+I am deeply committed to create outstanding software that enhances the lives of others around me. I specialize in developing websites and software for clients ranging from individuals, small enterprises to huge corporations. Making Ideas to reality.
                         </p>
 
                         <h3 className="text-2xl text-white font-semibold font-montserrat text-customPink mb-4">
@@ -53,7 +54,7 @@ const AboutSection = () => {
                         </div>
 
                         <div className="container mx-auto text-start font-montserrat py-16 pb-0">
-                                <a href="/files/Kimberly-Cordero-Resume.pdf" download className="inline-block bg-gray-400 hover:bg-blueSea text-oceanBlue font-semibold py-2 px-4 rounded-lg mb-8">
+                                <a href="files\Arcebuche-john-ashley,resume.pdf" download className="inline-block bg-gray-400 hover:bg-blueSea text-oceanBlue font-semibold py-2 px-4 rounded-lg mb-8">
                                     Download CV
                                 </a>
                         </div>

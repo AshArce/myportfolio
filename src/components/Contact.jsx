@@ -40,15 +40,15 @@ const Contact = () => {
             <div className="container mx-auto py-8 md:py-6 px-4 sm:px-6 lg:px-8">
                 <h2 className="text-4xl md:text-5xl font-semibold font-montserrat text-center text-customPink mb-12">Contact Me</h2>
                 <div className="flex justify-center space-x-6">
-                    <a href="https://www.linkedin.com/in/kmbrtsy/" className="text-customPink hover:text-blue-500">
+                    <a href="https://www.linkedin.com/in/AshArce/" className="text-customPink hover:text-blue-500">
                         <FontAwesomeIcon icon={faLinkedin} className="h-8 w-8" />
                     </a>
 
-                    <a href="mailto:kmbrtsy@gmail.com" className="text-customPink hover:text-blue-500">
+                    <a href="mailto:arcebuchejohnashley@gmail.com" className="text-customPink hover:text-blue-500">
                         <FontAwesomeIcon icon={faEnvelope} className="h-8 w-8" />
                     </a>
 
-                    <a href="https://github.com/kmbrtsy" className="text-customPink hover:text-blue-500">
+                    <a href="https://github.com/AshArce" className="text-customPink hover:text-blue-500">
                         <FontAwesomeIcon icon={faGithub} className="h-8 w-8" />
                     </a>
                 </div>
