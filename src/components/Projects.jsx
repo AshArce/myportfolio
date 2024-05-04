@@ -20,8 +20,8 @@ const Projects = () => {
                     <div className="bg-white rounded-lg shadow-md overflow-hidden">
                         <img src="/images/pject2.png" alt="Project 2" className="w-full h-64 object-cover" />
                         <div className="p-6">
-                            <h3 className="text-xl font-semibold mb-4">UI/UX Website Design</h3>
-                            <p className="text-gray-700">The website is constructed as a single-page layout, developed using Squarespace's platform. Currently in development.</p>
+                            <h3 className="text-xl font-semibold mb-4">Pixels calculator</h3>
+                            <p className="text-gray-700"> a comprehensive tool designed to assist users in managing costs and tasks efficiently within gaming environments. With a built-in timer feature, it ensures timely notifications to optimize industry operations seamlessly. This tool aims to enhance user experience and productivity within gaming platforms.</p>
                         </div>
                     </div>
                 </div>
